@@ -14,7 +14,6 @@
 
 ---
 
-- 🔭 Currently building: A **Face Recognition Attendance System** using **Basic Web, nodejs, YOLOv11**.
 - 💼 Working as a **Systems Administrator & Web Administrator**.
 - 🌱 Learning advanced **AI model integration**, **data pipelines**, and **data engineering**.
 - 💻 Experienced with **Node.js**, **Express**, **React**, **MongoDB**, **MySQL**, **Firebase**, **debian**, and **Nginx**.
@@ -42,8 +41,6 @@
 </div>
 -->
 
----
-
 ### 💡 Random Dev Quote
 
 <p align="center">
@@ -55,4 +52,5 @@
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
 
