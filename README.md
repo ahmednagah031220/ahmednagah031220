@@ -33,13 +33,14 @@
 </p>
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmednagah031220&theme=midnight-purple&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednagah031220&layout=compact&theme=midnight-purple&show_icons=true" />
 </div>
+-->
 
 ---
 
@@ -54,3 +55,4 @@
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
