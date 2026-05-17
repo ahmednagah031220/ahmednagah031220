@@ -1,47 +1,62 @@
-<!-- [![MasterHead](https://i.imgur.com/qNFF2xG.jpg)](https://www.linkedin.com/in/ahmed-nagah) -->
-
-<h1 align="center">Hi 👋, I'm Ahmed Nagah</h1>
-
+<!-- Header -->
 <div align="center">
-  <a href="https://github.com/Rez4-3yz/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=💻+Systems+Administrator;📦+Web+Administrator;🎨+Graphic+%26+UI/UX+Designer;🎬+Video+Editor;&center=true&width=500&height=50">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Nagah;Systems+%26+Web+Administrator;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Computer+Vision+Builder" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/programmer_animatoin.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednagah031220&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p> -->
-
----
-
-- 💼 Working as a **Systems Administrator & Web Administrator**.
-- 🌱 Learning advanced **AI model integration**, **data pipelines**, and **data engineering**.
-- 💻 Experienced with **Node.js**, **Express**, **React**, **MongoDB**, **MySQL**, **Firebase**, **debian**, and **Nginx**.
-- 🎨 Proficient in **Photoshop**, **Illustrator**, **Xd**, and **Figma**.
-- 🎬 Skilled in **After Effects**, **video editing**, **motion graphics**, and **kinetic typography**.
-- 📊 Comfortable with **Data Engineering**, **ETL**, and **API integrations**.
-- 📫 Reach out at **ahmednagah031220@gmail.com**
+<p align="center">
+  <a href="https://linkedin.com/in/ahmed-nagah-r/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ahmednagah031220@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 👨‍💻 About Me
+
+- 🎓 **CS Engineering student** @ Egypt Japan University of Science and Technology (E-JUST), graduating Mar 2027
+- 💼 **Systems Administrator** @ Arab Career Development Association (ACDA USA) — Linux infrastructure, Nginx, security hardening
+- 🌐 **Web Administrator** @ GROWAT — WordPress, front-end, UX & security
+- 🤖 **Generative AI Intern** @ ITI × NVIDIA DLI — LLMs, RAG pipelines, prompt engineering
+- 🔭 Currently building **[Tawazun](https://github.com/ahmednagah031220)** — a full-stack MERN social goal management platform
+- 🌱 Deepening expertise in **AI model integration**, **data engineering**, and **DevOps**
+- 📫 Reach me at **ahmednagah031220@gmail.com**
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|--------|-------|-----------|
+| 🎯 **[Tawazun](https://github.com/ahmednagah031220)** — Social Goal Management | MERN, Socket.io, JWT, React Query | Real-time notifications, modular REST APIs, scalable architecture |
+| 👁️ **[Asistencia](https://github.com/ahmednagah031220)** — CV Attendance System | YOLOv11, FaceNet, Node.js, MySQL | Live face detection + identity matching pipeline |
+| 🎨 **[Fotox](https://github.com/ahmednagah031220)** — AI Image Generation | React, Node.js, Firebase | Text-to-image & face-based generation, CI/CD workflow |
+---
+
+## 🛠️ Languages & Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,bash,powershell,vim,html,css,js,tailwind,bootstrap,npm,react,nodejs,express,ansible,docker,kubernetes,nginx,postman,git,github,mysql,postgres,sqlite,mongodb,firebase,azure,debian,linux,ubuntu,notion,ai,ps,pr,ae,xd,figma,blender,arduino,vscode,latex,tensorflow" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,c,bash,html,css,react,nodejs,express,mysql,mongodb,postgres,firebase&perline=7" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github,postman,vscode,figma,ps,pr,ae,tensorflow,gcp,notion&perline=7" />
   </a>
 </p>
 
 ---
-<!--
-### 📈 GitHub Stats
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmednagah031220&theme=midnight-purple&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednagah031220&layout=compact&theme=midnight-purple&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednagah031220&theme=tokyonight&hide_border=true" />
 </div>
--->
 
-### 💡 Random Dev Quote
+---
+
+## 💡 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
@@ -50,7 +65,5 @@
 ---
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's+Build+Something+Great&fontSize=24&fontColor=fff&animation=twinkling"/>
 </p>
-
-
