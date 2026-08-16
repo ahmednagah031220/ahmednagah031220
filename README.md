@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmed-nagah-r/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ahmednagah031220@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ahmed.nagah.rgmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -18,9 +18,9 @@
 - 💼 **Systems Administrator** @ Arab Career Development Association (ACDA USA) — Linux infrastructure, Nginx, security hardening
 - 🌐 **Web Administrator** @ GROWAT — WordPress, front-end, UX & security
 - 🤖 **Generative AI Intern** @ ITI × NVIDIA DLI — LLMs, RAG pipelines, prompt engineering
-- 🔭 Currently building **[Tawazun](https://github.com/ahmednagah031220)** — a full-stack MERN social goal management platform
+- 🔭 Currently building **[Tawazun](https://github.com/ahmed-nagah-r)** — a full-stack MERN social goal management platform
 - 🌱 Deepening expertise in **AI model integration**, **data engineering**, and **DevOps**
-- 📫 Reach me at **ahmednagah031220@gmail.com**
+- 📫 Reach me at **ahmed.nagah.rgmail.com**
 
 ---
 
@@ -28,9 +28,9 @@
 
 | Project | Stack | Highlights |
 |--------|-------|-----------|
-| 🎯 **[Tawazun](https://github.com/ahmednagah031220)** — Social Goal Management | MERN, Socket.io, JWT, React Query | Real-time notifications, modular REST APIs, scalable architecture |
-| 👁️ **[Asistencia](https://github.com/ahmednagah031220)** — CV Attendance System | YOLOv11, FaceNet, Node.js, MySQL | Live face detection + identity matching pipeline |
-| 🎨 **[Fotox](https://github.com/ahmednagah031220)** — AI Image Generation | React, Node.js, Firebase | Text-to-image & face-based generation, CI/CD workflow |
+| 🎯 **[Tawazun](https://github.com/ahmed-nagah-r)** — Social Goal Management | MERN, Socket.io, JWT, React Query | Real-time notifications, modular REST APIs, scalable architecture |
+| 👁️ **[Asistencia](https://github.com/ahmed-nagah-r)** — CV Attendance System | YOLOv11, FaceNet, Node.js, MySQL | Live face detection + identity matching pipeline |
+| 🎨 **[Fotox](https://github.com/ahmed-nagah-r)** — AI Image Generation | React, Node.js, Firebase | Text-to-image & face-based generation, CI/CD workflow |
 ---
 
 ## 🛠️ Languages & Tools
@@ -51,7 +51,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednagah031220&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-nagah-r&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
