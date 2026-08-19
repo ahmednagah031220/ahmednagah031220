@@ -2,7 +2,7 @@
   <img style="border-radius: 12px;" width="100%" src="https://media.giphy.com/media/zUYndzOGpTKw4OLXYa/giphy.gif">
 </div>
 
-<!-- Header -->style 
+<!-- Header -->
 <div align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Nagah;Systems+%26+Web+Administrator;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Computer+Vision+Builder" alt="Typing SVG" />
