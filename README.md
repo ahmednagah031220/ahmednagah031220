@@ -81,7 +81,7 @@
 ## 💡 Random Dev Quote
 
 <p align="center">
-  <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img width="60%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
 
 <p align="center">
