@@ -73,7 +73,9 @@
   <img height="180" src="https://github-readme-stats.shion.dev/api?username=ahmed-nagah-r&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ahmed-nagah-r&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
   <br/>
+  <!--
   <img width="74%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-nagah-r&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  -->
 </div>
 
 ---
